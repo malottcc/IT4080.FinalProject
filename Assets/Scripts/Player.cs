@@ -16,9 +16,13 @@ public class Player : MonoBehaviour
     float rotationY = 0f;
     public float sensitivity = 1f;
 
+    // Jump
+    public Rigidbody rb;
+
     void Start()
     {
         Cursor.lockState = CursorLockMode.Locked;
+        rb = GetComponent<Rigidbody>();
     }
 
     
@@ -34,5 +38,11 @@ public class Player : MonoBehaviour
         rotationY += Input.GetAxis("Mouse X") * sensitivity;
         rotationX += Input.GetAxis("Mouse Y") * -1 * sensitivity;
         transform.localEulerAngles = new Vector3(rotationX, rotationY, 0);
+
+        // Jump
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            rb.velocity = new Vector3(0, 5, 0);
+        }
     }
 }
