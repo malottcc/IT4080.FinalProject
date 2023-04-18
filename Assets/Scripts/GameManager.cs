@@ -15,6 +15,7 @@ namespace It4080
     {
 
         public Player playerPrefab;
+        public Wagon wagonPrefab;
 
         public override void OnNetworkSpawn()
         {
@@ -23,27 +24,47 @@ namespace It4080
             if (IsServer)
             {
                 SpawnAllPlayers();
+                SpawnAllWagons();
             }
         }
 
 
         private void SpawnAllPlayers()
         {
-            Debug.Log("Spawing Players");
+            Debug.Log("Spawning Players");
             foreach (ulong clientId in NetworkManager.Singleton.ConnectedClientsIds)
             {
                 SpawnPlayerForClient(clientId);
             }
         }
 
+        private void SpawnAllWagons()
+        {
+            Debug.Log("Spawning Wagons");
+            foreach (ulong clientId in NetworkManager.Singleton.ConnectedClientsIds)
+            {
+                SpawnWagonForClient(clientId);
+            }
+        }
+
         private Player SpawnPlayerForClient(ulong clientId)
         {
-            Debug.Log("Spawing Clients");
+            Debug.Log("Spawning Clients");
             Vector3 spawnPosition = new Vector3(1 + clientId * 5, 1, 18);
             Player playerSpawn = Instantiate(playerPrefab, spawnPosition, Quaternion.identity);
             playerSpawn.GetComponent<NetworkObject>().SpawnAsPlayerObject(clientId);
             return playerSpawn;
         }
 
+        
+        private Wagon SpawnWagonForClient(ulong clientId)
+        {
+            Debug.Log("Spawning Wagons");
+            Vector3 spawnPosition = new Vector3(1 + clientId * 5, 1, 16);
+            Wagon wagonSpawn = Instantiate(wagonPrefab, spawnPosition, Quaternion.identity);
+            wagonSpawn.GetComponent<NetworkObject>().SpawnWithOwnership(clientId);
+            return wagonSpawn;
+        }
+        
     }
 }
