@@ -29,6 +29,7 @@ namespace It4080
 
         private void SpawnAllPlayers()
         {
+            Debug.Log("Spawing Players");
             foreach (ulong clientId in NetworkManager.Singleton.ConnectedClientsIds)
             {
                 SpawnPlayerForClient(clientId);
@@ -37,6 +38,7 @@ namespace It4080
 
         private Player SpawnPlayerForClient(ulong clientId)
         {
+            Debug.Log("Spawing Clients");
             Vector3 spawnPosition = new Vector3(0, 1, clientId * 5);
             Player playerSpawn = Instantiate(playerPrefab, spawnPosition, Quaternion.identity);
             playerSpawn.GetComponent<NetworkObject>().SpawnAsPlayerObject(clientId);

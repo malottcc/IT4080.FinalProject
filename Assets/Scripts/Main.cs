@@ -43,7 +43,7 @@ public class Main : NetworkBehaviour
 
     private void StartGame()
     {
-        Debug.Log("");
+        Debug.Log("Started Game");
         NetworkManager.SceneManager.LoadScene("Game", UnityEngine.SceneManagement.LoadSceneMode.Single);
     }
 

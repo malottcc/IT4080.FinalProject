@@ -508,7 +508,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2820718787327476619}
   - component: {fileID: 884497675872372868}
-  - component: {fileID: 2415594935282730475}
+  - component: {fileID: 5241331142001695801}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
@@ -574,7 +574,7 @@ Camera:
   m_OcclusionCulling: 1
   m_StereoConvergence: 10
   m_StereoSeparation: 0.022
---- !u!81 &2415594935282730475
+--- !u!81 &5241331142001695801
 AudioListener:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2208,7 +2208,6 @@ GameObject:
   - component: {fileID: 1366677107036997289}
   - component: {fileID: 7115274306695730007}
   - component: {fileID: 7470609570711735676}
-  - component: {fileID: 972542283165725754}
   m_Layer: 0
   m_Name: MaleCharacterPBR
   m_TagString: Player
@@ -2344,24 +2343,6 @@ MonoBehaviour:
   ScaleThreshold: 0.01
   InLocalSpace: 0
   Interpolate: 1
---- !u!143 &972542283165725754
-CharacterController:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6382474675236072677}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 0
-  serializedVersion: 2
-  m_Height: 1.7
-  m_Radius: 0.5
-  m_SlopeLimit: 45
-  m_StepOffset: 0.3
-  m_SkinWidth: 0.08
-  m_MinMoveDistance: 0.001
-  m_Center: {x: 0, y: 0.8, z: 0}
 --- !u!1 &6418505854437243594
 GameObject:
   m_ObjectHideFlags: 0
