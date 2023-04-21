@@ -56,15 +56,15 @@ namespace It4080
             return playerSpawn;
         }
 
-        
+
         private Wagon SpawnWagonForClient(ulong clientId)
         {
             Debug.Log("Spawning Wagons");
-            Vector3 spawnPosition = new Vector3(1 + clientId * 5, 1, 16);
+            Vector3 spawnPosition = new Vector3(1 + clientId * 8, -4, 16);
             Wagon wagonSpawn = Instantiate(wagonPrefab, spawnPosition, Quaternion.identity);
             wagonSpawn.GetComponent<NetworkObject>().SpawnWithOwnership(clientId);
             return wagonSpawn;
         }
-        
+
     }
 }
