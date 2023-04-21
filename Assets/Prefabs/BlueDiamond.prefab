@@ -103,7 +103,7 @@ MonoBehaviour:
   isFloating: 0
   isScaling: 0
   rotationAngle: {x: 15, y: 15, z: 15}
-  rotationSpeed: 5
+  rotationSpeed: 4
   floatSpeed: 0.04
   floatRate: 0.5
   startScale: {x: 0.29289, y: 0.29289, z: 0.29289}

@@ -25,6 +25,9 @@ namespace It4080
         // Camera
         private Camera camera;
 
+        // Loot Value
+        public NetworkVariable<int> wagonScore = new NetworkVariable<int>(0);
+
         void Start()
         {
             Cursor.lockState = CursorLockMode.Locked;

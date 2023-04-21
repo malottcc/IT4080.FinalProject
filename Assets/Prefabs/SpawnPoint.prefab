@@ -88,6 +88,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 98789dce6a0abb0488811ceadacc00ec, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnPosition: {x: 0, y: 0, z: 0}
-  blueDiamond: {fileID: 0}
+  blueDiamond: {fileID: 1913316254886770795, guid: 6a5ee82cc0ebc3f47b0d3698a9239b68, type: 3}
+  yellowStar: {fileID: 0}
   spawnOnLoad: 1
