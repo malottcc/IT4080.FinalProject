@@ -1,0 +1,1779 @@
+Mono path[0] = 'C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/TheBuild_Data/Managed'
+Mono config path = 'C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/MonoBleedingEdge/etc'
+Initialize engine version: 2021.3.16f1 (4016570cf34f)
+[Subsystems] Discovering subsystems at path C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/TheBuild_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3070 (ID=0x2484)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   31.0.15.2698
+Begin MonoManager ReloadAssembly
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTestData.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTestData.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricEvents.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricEvents.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Telemetry.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Telemetry.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Networking.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Networking.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.ClientAuthority.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.ClientAuthority.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTypes.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTypes.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Internal.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Internal.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsReporting.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsReporting.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Relay.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Relay.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Configuration.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Configuration.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\UnityEngine.UI.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\UnityEngine.UI.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Networking.Transport.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Networking.Transport.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Authentication.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Authentication.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Common.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Common.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Components.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Components.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Initialization.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Initialization.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Registration.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Registration.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.Internal.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.Internal.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Threading.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Threading.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Collections.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Collections.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStats.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStats.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Tutorials.Core.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Tutorials.Core.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkSolutionInterface.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Profiling.Core.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Profiling.Core.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Timeline.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Timeline.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.TextMeshPro.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.TextMeshPro.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Component.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Flow.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Flow.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Runtime.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Runtime.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.RNSM.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.RNSM.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Core.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Core.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Mathematics.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Mathematics.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Analytics.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Analytics.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Burst.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Burst.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.Ngo1.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.Ngo1.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Scheduler.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Scheduler.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.QoS.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.QoS.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.State.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.State.dll
+Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Device.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Device.dll
+- Completed reload, in  0.113 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+UnloadTime: 0.642200 ms
+client connected to me: 0
+started host
+[Netcode] Cannot start Server while an instance is already running
+started server
+Started Game
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.384700 ms
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.Netcode.NetworkBehaviour.InitializeVariables () [0x0015f] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkBehaviour.InternalOnNetworkSpawn () [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkObject.InvokeBehaviourNetworkSpawn () [0x00040] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkSpawnManager.SpawnNetworkObjectLocallyCommon (Unity.Netcode.NetworkObject networkObject, System.UInt64 networkId, System.Boolean sceneObject, System.Boolean playerObject, System.UInt64 ownerClientId, System.Boolean destroyWithScene) [0x00210] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkSpawnManager.SpawnNetworkObjectLocally (Unity.Netcode.NetworkObject networkObject, System.UInt64 networkId, System.Boolean sceneObject, System.Boolean playerObject, System.UInt64 ownerClientId, System.Boolean destroyWithScene) [0x00044] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkSceneManager.OnServerLoadedScene (System.UInt32 sceneEventId, UnityEngine.SceneManagement.Scene scene) [0x0006b] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkSceneManager.OnSceneLoaded (System.UInt32 sceneEventId) [0x00091] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.SceneEventProgress.<SetAsyncOperation>b__37_0 (UnityEngine.AsyncOperation asyncOp2) [0x00012] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at UnityEngine.AsyncOperation.InvokeCompletionEvent () [0x0000f] in <008a787f2823430aae87e927a51ccf8d>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 3311.
+Total: 1.404200 ms (FindLiveObjects: 0.138500 ms CreateObjectMapping: 0.078400 ms MarkObjects: 1.153600 ms  DeleteObjects: 0.033200 ms)
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
+Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+
+
+InvalidOperationException: trying to update interpolator when no data has been added to it yet
+  at Unity.Netcode.BufferedLinearInterpolator`1[T].Update (System.Single deltaTime, System.Double renderTime, System.Double serverTime) [0x00010] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.Components.NetworkTransform.Update () [0x00068] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+
+[Netcode] SceneEventDataStore is disposing SceneEventId '238786206'.
+Setting up 8 worker threads for Enlighten.
+NullReferenceException: Object reference not set to an instance of an object
+  at Unity.Netcode.NetworkBehaviour.OnDestroy () [0x00056] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 403 frames, [1.0 KB-2.0 KB]: 1 frames, [2.0 KB-4.0 KB]: 1 frames, [256.0 KB-0.5 MB]: 1 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 2.0 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 119.7 KB
+      Overflow Count 8
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 303 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 8.7 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 7.9 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 6.5 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 19
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 232 frames, [16.0 MB-32.0 MB]: 176 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 22.8 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 408 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 18.6 MB
+      Peak Large allocation bytes 16.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 2
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 2
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 172 frames, [1.0 MB-2.0 MB]: 235 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [256.0 KB-0.5 MB]: 230 frames, [0.5 MB-1.0 MB]: 178 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 0.6 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 28
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 408 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 1.1 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [2.0 MB-4.0 MB]: 402 frames, [4.0 MB-8.0 MB]: 6 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 2
+      Peak Allocated memory 4.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 1.4 MB
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 408 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 4.6 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 408 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 5.9 KB
+      Peak Large allocation bytes 0 B
