@@ -7,6 +7,7 @@ using System;
 using UnityEngine.UI;
 using Unity.Netcode.Transports.UTP;
 using TMPro;
+using It4080;
 
 
 namespace It4080
@@ -26,7 +27,7 @@ namespace It4080
         private Camera camera;
 
         // Loot Value
-        public NetworkVariable<int> wagonScore = new NetworkVariable<int>(0);
+        public NetworkVariable<int> wagonScore = new NetworkVariable<int>(10);
 
         void Start()
         {
@@ -54,6 +55,22 @@ namespace It4080
             {
                 rb.velocity = new Vector3(0, 5, 0);
             }
+
+            // Move Players
+            if (IsOwner)
+            {
+                //PlayerMovementServerRpc(moveDirection);
+            }
+        }
+
+        //------------------------------
+        //Server Move Players
+
+        [ServerRpc]
+        public void PlayerMovementServerRpc(Vector3 posChange, Vector3 posRotate, ServerRpcParams rpcParams = default)
+        {
+            transform.Translate(posChange);
+            transform.Translate(posRotate);
         }
 
         //-------------------------------
@@ -63,6 +80,7 @@ namespace It4080
         {
             camera = transform.Find("Camera").GetComponent<Camera>();
             camera.enabled = IsOwner;
+
         }
 
 

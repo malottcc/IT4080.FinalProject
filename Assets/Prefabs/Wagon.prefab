@@ -187,6 +187,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3a9b91b638334f1ebd98851a09cadcd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  worldText: {fileID: 8301753850036362886}
 --- !u!65 &8461905362564853897
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -213,7 +214,7 @@ GameObject:
   - component: {fileID: 8301753850036362886}
   m_Layer: 0
   m_Name: Score
-  m_TagString: Untagged
+  m_TagString: Score
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

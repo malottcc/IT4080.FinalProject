@@ -7,18 +7,21 @@ using System;
 using UnityEngine.UI;
 using Unity.Netcode.Transports.UTP;
 using TMPro;
+using It4080;
 
 namespace It4080
 {
     public class Wagon : NetworkBehaviour
     {
-        // Start is called before the first frame update
+
+        public TMP_Text worldText;
+        public string displayScore;
+
         void Start()
         {
 
         }
 
-        // Update is called once per frame
         void Update()
         {
 

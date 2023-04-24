@@ -56,225 +56,858 @@ Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuil
 Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
 Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.State.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.State.dll
 Symbol file C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Device.pdb doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Device.dll
-- Completed reload, in  0.113 seconds
+- Completed reload, in  0.127 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
-Rethrow as TypeInitializationException: The type initializer for 'It4080.LootSpawner' threw an exception.
+The referenced script (It4080.PowerUp) on this Behaviour is missing!
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script (It4080.Player1) on this Behaviour is missing!
+The referenced script (It4080.BulletSpawner) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'PowerUp') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+A scripted object (probably It4080.Bullet?) has a different serialization layout when loading. (Read 32 bytes but expected 48 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+A scripted object (probably It4080.BulletSpawner?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+A scripted object (probably It4080.Player1?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script (It4080.Chat) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'ChatServer') is missing!
+A scripted object (probably Main?) has a different serialization layout when loading. (Read 44 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Chat') is missing!
+A scripted object (probably It4080.Chat?) has a different serialization layout when loading. (Read 32 bytes but expected 68 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+UnloadTime: 0.571400 ms
+started client
+The referenced script (It4080.PowerUp) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'PowerUp') is missing!
+The referenced script on this Behaviour (Game Object 'PowerUp') is missing!
+The referenced script (It4080.Player1) on this Behaviour is missing!
+The referenced script (It4080.BulletSpawner) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script (It4080.Player1) on this Behaviour is missing!
+The referenced script (It4080.BulletSpawner) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+The referenced script (It4080.ArenaManager) on this Behaviour is missing!
+The referenced script (It4080.ScoreChange) on this Behaviour is missing!
+The referenced script (It4080.SpawnPowerUp) on this Behaviour is missing!
+The referenced script (It4080.SpawnPowerUp) on this Behaviour is missing!
+The referenced script (It4080.SpawnPowerUp) on this Behaviour is missing!
+The referenced script (It4080.SpawnPowerUp) on this Behaviour is missing!
+The referenced script (It4080.Player1) on this Behaviour is missing!
+The referenced script (It4080.BulletSpawner) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'ArenaManager') is missing!
+A scripted object (probably It4080.ArenaManager?) has a different serialization layout when loading. (Read 32 bytes but expected 44 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Score') is missing!
+A scripted object (probably It4080.ScoreChange?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+A scripted object (probably It4080.BulletSpawner?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'PlayerModelNew') is missing!
+A scripted object (probably It4080.Player1?) has a different serialization layout when loading. (Read 32 bytes but expected 52 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Spawner (1)') is missing!
+A scripted object (probably It4080.SpawnPowerUp?) has a different serialization layout when loading. (Read 32 bytes but expected 80 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Spawner') is missing!
+A scripted object (probably It4080.SpawnPowerUp?) has a different serialization layout when loading. (Read 32 bytes but expected 80 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Spawner (3)') is missing!
+A scripted object (probably It4080.SpawnPowerUp?) has a different serialization layout when loading. (Read 32 bytes but expected 80 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+The referenced script on this Behaviour (Game Object 'Spawner (2)') is missing!
+A scripted object (probably It4080.SpawnPowerUp?) has a different serialization layout when loading. (Read 32 bytes but expected 80 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.486400 ms
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 62430.
+Total: 4.302500 ms (FindLiveObjects: 2.793100 ms CreateObjectMapping: 0.299000 ms MarkObjects: 1.141600 ms  DeleteObjects: 0.068400 ms)
 
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
 
-The file 'C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/TheBuild_Data/sharedassets0.assets' is corrupted! Remove it and launch unity again!
-[Position out of bounds!]
-Crash!!!
-SymInit: Symbol-SearchPath: '.;C:\;C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'malot'
-OS-Version: 10.0.0
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild.exe:TheBuild.exe (00670000), size: 655360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.16.5719
-C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77190000), size: 1765376 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (76000000), size: 983040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (754D0000), size: 2531328 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1555
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\UnityPlayer.dll:UnityPlayer.dll (7A5B0000), size: 23724032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2021.3.16.5719
-C:\WINDOWS\System32\USER32.dll:USER32.dll (76990000), size: 1728512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\win32u.dll:win32u.dll (761D0000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\GDI32.dll:GDI32.dll (76FE0000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (76BE0000), size: 909312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (74EC0000), size: 495616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (753B0000), size: 1122304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\ole32.dll:ole32.dll (76CE0000), size: 1363968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\combase.dll:combase.dll (75130000), size: 2600960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (74F40000), size: 761856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1555
-C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (72E80000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (75060000), size: 802816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22621.608
-C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (76ED0000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (75850000), size: 4444160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (75C90000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\sechost.dll:sechost.dll (75D80000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1555
-C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (76260000), size: 6692864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (76E30000), size: 638976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\IMM32.dll:IMM32.dll (76960000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5F280000), size: 917504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (71740000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (75E10000), size: 1060864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.674
-C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (75FA0000), size: 389120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6A040000), size: 901120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (74BF0000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (64640000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (6A750000), size: 270336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (70EA0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (65890000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (73CE0000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (75D10000), size: 401408 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (70E20000), size: 520192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.900
-C:\WINDOWS\System32\shcore.dll:shcore.dll (76F20000), size: 786432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.900
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (7BCA0000), size: 6467584 (result: 0), SymType: '-deferred-', PDB: ''
-C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (73610000), size: 7135232 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (73540000), size: 815104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (734F0000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (741B0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (760F0000), size: 897024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (7C2D0000), size: 2322432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (651E0000), size: 827392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (6ACC0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_009debfbd2e1619b\nvldumd.dll:nvldumd.dll (6AD00000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.2698
-C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (71150000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.819
-C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (69C20000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (65E40000), size: 1085440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (70CB0000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (73F70000), size: 249856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\wldp.dll:wldp.dll (6B7A0000), size: 270336 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (70E10000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (75000000), size: 360448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (76CC0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (70FC0000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (70F90000), size: 196608 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_009debfbd2e1619b\nvwgf2um.dll:nvwgf2um.dll (0E550000), size: 49029120 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.15.2698
-C:\WINDOWS\system32\nvspcap.dll:nvspcap.dll (683E0000), size: 2269184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.27.0.112
-C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (70860000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (768D0000), size: 532480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
-C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (72C20000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (72BB0000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (70820000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (6F2B0000), size: 835584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (6F000000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (74190000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\Program Files\Norton Security\Engine32\22.23.3.8\symamsi.dll:symamsi.dll (6EF70000), size: 557056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 15.7.12.41
-C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (5C870000), size: 507904 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (5C6E0000), size: 1609728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (69170000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (74E70000), size: 286720 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (73F40000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Plugins\x86\lib_burst_generated.dll:lib_burst_generated.dll (7C990000), size: 327680 (result: 0), SymType: '-deferred-', PDB: ''
-C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (00400000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
-C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (18910000), size: 1634304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (502B0000), size: 933888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (73D30000), size: 1908736 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (6B810000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1485
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
 
-========== OUTPUTTING STACK TRACE ==================
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
 
-0x7B0E0B8A (UnityPlayer) UnityMain
-0x7B0E0509 (UnityPlayer) UnityMain
-SymInit: Symbol-SearchPath: '.;C:\;C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject;C:\WINDOWS;C:\WINDOWS\system32;', symOptions: 534, UserName: 'malot'
-OS-Version: 10.0.0
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild.exe:TheBuild.exe (00670000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild.exe', fileVersion: 2021.3.16.5719
-C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (77190000), size: 1765376 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntdll.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (76000000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNEL32.DLL', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (754D0000), size: 2531328 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\KERNELBASE.dll', fileVersion: 10.0.22621.1555
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\UnityPlayer.dll:UnityPlayer.dll (7A5B0000), size: 23724032 (result: 0), SymType: '-exported-', PDB: 'C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\UnityPlayer.dll', fileVersion: 2021.3.16.5719
-C:\WINDOWS\System32\USER32.dll:USER32.dll (76990000), size: 1728512 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\USER32.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\win32u.dll:win32u.dll (761D0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\win32u.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\GDI32.dll:GDI32.dll (76FE0000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\GDI32.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (76BE0000), size: 909312 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\gdi32full.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (74EC0000), size: 495616 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcp_win.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (753B0000), size: 1122304 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ucrtbase.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\ole32.dll:ole32.dll (76CE0000), size: 1363968 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ole32.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\combase.dll:combase.dll (75130000), size: 2600960 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\combase.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (74F40000), size: 761856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\RPCRT4.dll', fileVersion: 10.0.22621.1555
-C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (72E80000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\VERSION.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (75060000), size: 802816 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\msvcrt.dll', fileVersion: 7.0.22621.608
-C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (76ED0000), size: 307200 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHLWAPI.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (75850000), size: 4444160 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SETUPAPI.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (75C90000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\ADVAPI32.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\sechost.dll:sechost.dll (75D80000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\sechost.dll', fileVersion: 10.0.22621.1555
-C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (76260000), size: 6692864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\SHELL32.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (76E30000), size: 638976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\OLEAUT32.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\IMM32.dll:IMM32.dll (76960000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\IMM32.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (5F280000), size: 917504 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\OPENGL32.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (71740000), size: 200704 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINMM.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (75E10000), size: 1060864 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\CRYPT32.dll', fileVersion: 10.0.22621.674
-C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (75FA0000), size: 389120 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WS2_32.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (6A040000), size: 901120 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\WINHTTP.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\bcrypt.dll:bcrypt.dll (74BF0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\bcrypt.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (64640000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\HID.DLL', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (6A750000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\GLU32.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (70EA0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dwmapi.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (65890000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxcore.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (73CE0000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\kernel.appcore.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (75D10000), size: 401408 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\bcryptPrimitives.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (70E20000), size: 520192 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\uxtheme.dll', fileVersion: 10.0.22621.900
-C:\WINDOWS\System32\shcore.dll:shcore.dll (76F20000), size: 786432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\shcore.dll', fileVersion: 10.0.22621.900
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (7BCA0000), size: 6467584 (result: 0), SymType: '-exported-', PDB: 'C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll'
-C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (73610000), size: 7135232 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\windows.storage.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (73540000), size: 815104 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wintypes.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (734F0000), size: 102400 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\profapi.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (741B0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\iphlpapi.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (760F0000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MSCTF.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (7C2D0000), size: 2322432 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\d3d11.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (651E0000), size: 827392 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dxgi.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (6ACC0000), size: 241664 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_009debfbd2e1619b\nvldumd.dll:nvldumd.dll (6AD00000), size: 618496 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_009debfbd2e1619b\nvldumd.dll', fileVersion: 31.0.15.2698
-C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (71150000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\msasn1.dll', fileVersion: 10.0.22621.819
-C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (69C20000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cryptnet.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (65E40000), size: 1085440 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\drvstore.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (70CB0000), size: 147456 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\devobj.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\cfgmgr32.dll:cfgmgr32.dll (73F70000), size: 249856 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cfgmgr32.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\wldp.dll:wldp.dll (6B7A0000), size: 270336 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wldp.dll', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (70E10000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\cryptbase.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (75000000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\WINTRUST.DLL', fileVersion: 10.0.22621.1485
-C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (76CC0000), size: 110592 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\imagehlp.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (70FC0000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\CRYPTSP.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (70F90000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\rsaenh.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_009debfbd2e1619b\nvwgf2um.dll:nvwgf2um.dll (0E550000), size: 49029120 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_009debfbd2e1619b\nvwgf2um.dll', fileVersion: 31.0.15.2698
-C:\WINDOWS\system32\nvspcap.dll:nvspcap.dll (683E0000), size: 2269184 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\nvspcap.dll', fileVersion: 3.27.0.112
-C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (70860000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\ntmarta.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (768D0000), size: 532480 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\clbcatq.dll', fileVersion: 2001.12.10941.16384
-C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (72C20000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\wbemprox.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (72BB0000), size: 421888 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\wbemcomn.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (70820000), size: 69632 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\wbemsvc.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (6F2B0000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\system32\wbem\fastprox.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (6F000000), size: 86016 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\amsi.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (74190000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\USERENV.dll', fileVersion: 10.0.22621.1
-C:\Program Files\Norton Security\Engine32\22.23.3.8\symamsi.dll:symamsi.dll (6EF70000), size: 557056 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files\Norton Security\Engine32\22.23.3.8\symamsi.dll', fileVersion: 15.7.12.41
-C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (5C870000), size: 507904 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\System32\MMDevApi.dll', fileVersion: 10.0.22621.608
-C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (5C6E0000), size: 1609728 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\AUDIOSES.DLL', fileVersion: 10.0.22621.1485
-C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (69170000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (74E70000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\powrprof.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (73F40000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\UMPDC.dll', fileVersion: 10.0.22621.1
-C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Plugins\x86\lib_burst_generated.dll:lib_burst_generated.dll (7C990000), size: 327680 (result: 0), SymType: '-exported-', PDB: 'C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Plugins\x86\lib_burst_generated.dll'
-C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (00400000), size: 90112 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\xinput1_3.dll', fileVersion: 9.18.944.0
-C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (18910000), size: 1634304 (result: 0), SymType: '-nosymbols-', PDB: 'C:\WINDOWS\SYSTEM32\dcomp.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (502B0000), size: 933888 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\textinputframework.dll', fileVersion: 10.0.22621.1344
-C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (73D30000), size: 1908736 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\dbghelp.dll', fileVersion: 10.0.22621.1
-C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (6B810000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\WINDOWS\SYSTEM32\SspiCli.dll', fileVersion: 10.0.22621.1485
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7A99DFDE)
-0x7A99DFDE (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7A99E6F2)
-0x7A99E6F2 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAD7D19)
-0x7AAD7D19 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAC5676)
-0x7AAC5676 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AADECF8)
-0x7AADECF8 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAC5676)
-0x7AAC5676 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAD571B)
-0x7AAD571B (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAD578C)
-0x7AAD578C (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAEC496)
-0x7AAEC496 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAAE74F)
-0x7AAAE74F (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAF96EB)
-0x7AAF96EB (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAF2116)
-0x7AAF2116 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AAF0C2D)
-0x7AAF0C2D (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7A992732)
-0x7A992732 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7A992FF5)
-0x7A992FF5 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7A9932B5)
-0x7A9932B5 (UnityPlayer) (function-name not available)
-  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 7AA1E3F5)
-0x7AA1E3F5 (UnityPlayer) (function-name not available)
-0x76017D49 (KERNEL32) BaseThreadInitThunk
-0x771FB74B (ntdll) RtlInitializeExceptionChain
-0x771FB6CF (ntdll) RtlClearBits
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
 
-========== END OF STACKTRACE ===========
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
 
-A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
- * C:/Users/malot/AppData/Local/Temp/DefaultCompany/My project/Crashes
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+[Netcode] Behaviour index was out of bounds. Did you mess up the order of your NetworkBehaviours?
+[Netcode] Network variable delta message received for a non-existent behaviour. NetworkObjectId: 6, NetworkBehaviourIndex: 1
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script (It4080.Bullet) on this Behaviour is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+The referenced script on this Behaviour (Game Object 'Bullet') is missing!
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+OverflowException: Reading past the end of the buffer
+  at Unity.Netcode.BufferSerializerReader.SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00015] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.BufferSerializer`1[TReaderWriter].SerializeValue[T] (T& value, Unity.Netcode.FastBufferWriter+ForPrimitives unused) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.Components.NetworkTransform+NetworkTransformState.NetworkSerialize[T] (Unity.Netcode.BufferSerializer`1[TReaderWriter] serializer) [0x00000] in <6677a0552154454e9cfa72ae1b9f2154>:0 
+  at Unity.Netcode.UnmanagedNetworkSerializableSerializer`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x0000d] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableSerialization`1[T].Read (Unity.Netcode.FastBufferReader reader, T& value) [0x00000] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariable`1[T].ReadDelta (Unity.Netcode.FastBufferReader reader, System.Boolean keepDirtyDelta) [0x00007] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.NetworkVariableDeltaMessage.Handle (Unity.Netcode.NetworkContext& context) [0x00256] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at Unity.Netcode.MessagingSystem.ReceiveMessage[T] (Unity.Netcode.FastBufferReader reader, Unity.Netcode.NetworkContext& context, Unity.Netcode.MessagingSystem system) [0x00041] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void_FastBufferReader_NetworkContext&_MessagingSystem(Unity.Netcode.FastBufferReader,Unity.Netcode.NetworkContext&,Unity.Netcode.MessagingSystem)
+  at Unity.Netcode.MessagingSystem.HandleMessage (Unity.Netcode.MessageHeader& header, Unity.Netcode.FastBufferReader reader, System.UInt64 senderId, System.Single timestamp, System.Int32 serializedHeaderSize) [0x00105] in <a49c3cd94f01434d82fd40894e5cac9d>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:LogException(Exception)
+Unity.Netcode.MessagingSystem:HandleMessage(MessageHeader&, FastBufferReader, UInt64, Single, Int32)
+Unity.Netcode.MessagingSystem:ProcessIncomingMessageQueue()
+Unity.Netcode.NetworkManager:OnNetworkEarlyUpdate()
+Unity.Netcode.NetworkManager:NetworkUpdate(NetworkUpdateStage)
+Unity.Netcode.NetworkUpdateLoop:RunNetworkUpdateStage(NetworkUpdateStage)
+Unity.Netcode.<>c:<CreateLoopSystem>b__0_0()
+
+Setting up 8 worker threads for Enlighten.
+Memory Statistics:
+[ALLOC_TEMP_TLS] TLS Allocator
+  StackAllocators : 
+    [ALLOC_TEMP_MAIN]
+      Peak usage frame count: [0-1.0 KB]: 753 frames, [1.0 KB-2.0 KB]: 1 frames, [16.0 KB-32.0 KB]: 1 frames, [32.0 KB-64.0 KB]: 1395 frames, [128.0 KB-256.0 KB]: 5 frames, [1.0 MB-2.0 MB]: 1 frames, [2.0 MB-4.0 MB]: 2 frames
+      Initial Block Size 4.0 MB
+      Current Block Size 4.0 MB
+      Peak Allocated Bytes 3.0 MB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 2]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 7]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.PreloadManager]
+      Initial Block Size 256.0 KB
+      Current Block Size 0.5 MB
+      Peak Allocated Bytes 511.6 KB
+      Overflow Count 23
+    [ALLOC_TEMP_UnityGfxDeviceWorker]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 13.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_AssetGarbageCollectorHelper] x 15
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 0 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 5]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 8]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 6]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 4.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 0]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 10]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Loading.AsyncRead]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 303 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 9]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 13]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 5]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 14]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 6]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 4]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 7]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 1]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 4.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 11]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 2]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 3]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 10]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 7.4 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 3]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 4.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 0]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 13]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 4.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 12]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_EnlightenWorker] x 8
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 11]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 9.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 15]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 111 B
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 12]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 4.3 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 1]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_Background Job.Worker 4]
+      Initial Block Size 32.0 KB
+      Current Block Size 32.0 KB
+      Peak Allocated Bytes 110 B
+      Overflow Count 0
+    [ALLOC_TEMP_BatchDeleteObjects]
+      Initial Block Size 64.0 KB
+      Current Block Size 64.0 KB
+      Peak Allocated Bytes 42 B
+      Overflow Count 0
+[ALLOC_DEFAULT] Dual Thread Allocator
+  Peak main deferred allocation count 50
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 13 Subsections = 13312 buckets. Failed count: 29119
+        32B: 40 Subsections = 20480 buckets. Failed count: 10501
+        48B: 40 Subsections = 13653 buckets. Failed count: 4218
+        64B: 18 Subsections = 4608 buckets. Failed count: 130
+        80B: 58 Subsections = 11878 buckets. Failed count: 10403
+        96B: 4 Subsections = 682 buckets. Failed count: 0
+        112B: 3 Subsections = 438 buckets. Failed count: 0
+        128B: 80 Subsections = 10240 buckets. Failed count: 10628
+    [ALLOC_DEFAULT_MAIN]
+      Peak usage frame count: [8.0 MB-16.0 MB]: 744 frames, [16.0 MB-32.0 MB]: 1414 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 2
+      Peak Allocated memory 24.3 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_DEFAULT_THREAD]
+      Peak usage frame count: [16.0 MB-32.0 MB]: 2153 frames, [32.0 MB-64.0 MB]: 5 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 40.4 MB
+      Peak Large allocation bytes 32.0 MB
+[ALLOC_TEMP_JOB_1_FRAME]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_2_FRAMES]
+  Initial Block Size 2.0 MB
+  Used Block Count 1
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_4_FRAMES (JobTemp)]
+  Initial Block Size 2.0 MB
+  Used Block Count 3
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_TEMP_JOB_ASYNC (Background)]
+  Initial Block Size 1.0 MB
+  Used Block Count 4
+  Overflow Count (too large) 0
+  Overflow Count (full) 0
+[ALLOC_GFX] Dual Thread Allocator
+  Peak main deferred allocation count 1
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 13 Subsections = 13312 buckets. Failed count: 29119
+        32B: 40 Subsections = 20480 buckets. Failed count: 10501
+        48B: 40 Subsections = 13653 buckets. Failed count: 4218
+        64B: 18 Subsections = 4608 buckets. Failed count: 130
+        80B: 58 Subsections = 11878 buckets. Failed count: 10403
+        96B: 4 Subsections = 682 buckets. Failed count: 0
+        112B: 3 Subsections = 438 buckets. Failed count: 0
+        128B: 80 Subsections = 10240 buckets. Failed count: 10628
+    [ALLOC_GFX_MAIN]
+      Peak usage frame count: [32.0 KB-64.0 KB]: 1400 frames, [256.0 KB-0.5 MB]: 757 frames, [2.0 MB-4.0 MB]: 1 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_GFX_THREAD]
+      Peak usage frame count: [64.0 KB-128.0 KB]: 744 frames, [256.0 KB-0.5 MB]: 2 frames, [1.0 MB-2.0 MB]: 11 frames, [2.0 MB-4.0 MB]: 1401 frames
+      Requested Block Size 16.0 MB
+      Peak Block count 1
+      Peak Allocated memory 3.8 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_CACHEOBJECTS] Dual Thread Allocator
+  Peak main deferred allocation count 28
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 13 Subsections = 13312 buckets. Failed count: 29119
+        32B: 40 Subsections = 20480 buckets. Failed count: 10501
+        48B: 40 Subsections = 13653 buckets. Failed count: 4218
+        64B: 18 Subsections = 4608 buckets. Failed count: 130
+        80B: 58 Subsections = 11878 buckets. Failed count: 10403
+        96B: 4 Subsections = 682 buckets. Failed count: 0
+        112B: 3 Subsections = 438 buckets. Failed count: 0
+        128B: 80 Subsections = 10240 buckets. Failed count: 10628
+    [ALLOC_CACHEOBJECTS_MAIN]
+      Peak usage frame count: [0.5 MB-1.0 MB]: 1 frames, [1.0 MB-2.0 MB]: 756 frames, [2.0 MB-4.0 MB]: 1401 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 1
+      Peak Allocated memory 2.7 MB
+      Peak Large allocation bytes 0 B
+    [ALLOC_CACHEOBJECTS_THREAD]
+      Peak usage frame count: [1.0 MB-2.0 MB]: 746 frames, [2.0 MB-4.0 MB]: 4 frames, [4.0 MB-8.0 MB]: 2 frames, [8.0 MB-16.0 MB]: 1402 frames, [16.0 MB-32.0 MB]: 4 frames
+      Requested Block Size 4.0 MB
+      Peak Block count 8
+      Peak Allocated memory 23.9 MB
+      Peak Large allocation bytes 0 B
+[ALLOC_TYPETREE] Dual Thread Allocator
+  Peak main deferred allocation count 0
+    [ALLOC_BUCKET]
+      Large Block size 4.0 MB
+      Used Block count 1
+      Peak Allocated bytes 4.0 MB
+      Failed Allocations. Bucket layout:
+        16B: 13 Subsections = 13312 buckets. Failed count: 29119
+        32B: 40 Subsections = 20480 buckets. Failed count: 10501
+        48B: 40 Subsections = 13653 buckets. Failed count: 4218
+        64B: 18 Subsections = 4608 buckets. Failed count: 130
+        80B: 58 Subsections = 11878 buckets. Failed count: 10403
+        96B: 4 Subsections = 682 buckets. Failed count: 0
+        112B: 3 Subsections = 438 buckets. Failed count: 0
+        128B: 80 Subsections = 10240 buckets. Failed count: 10628
+    [ALLOC_TYPETREE_MAIN]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 2158 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 4.6 KB
+      Peak Large allocation bytes 0 B
+    [ALLOC_TYPETREE_THREAD]
+      Peak usage frame count: [4.0 KB-8.0 KB]: 2158 frames
+      Requested Block Size 2.0 MB
+      Peak Block count 1
+      Peak Allocated memory 5.9 KB
+      Peak Large allocation bytes 0 B
