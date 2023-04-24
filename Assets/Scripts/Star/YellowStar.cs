@@ -1,18 +1,35 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.Net;
+using Unity.Netcode;
+using System;
+using UnityEngine.UI;
+using Unity.Netcode.Transports.UTP;
+using TMPro;
 
-public class YellowStar : MonoBehaviour
+namespace It4080
 {
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
+    public class YellowStar : MonoBehaviour
     {
-        
+        public GameObject curStar;
+
+        void Start()
+        {
+
+        }
+
+        void Update()
+        {
+
+        }
+
+        void OnCollisionEnter(Collision collision)
+        {
+
+        }
+
+
     }
 }

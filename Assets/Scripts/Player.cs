@@ -34,7 +34,8 @@ namespace It4080
             rb = GetComponent<Rigidbody>();
         }
 
-
+        //----------------------
+        // Update
         void Update()
         {
             // Move around
@@ -63,5 +64,39 @@ namespace It4080
             camera = transform.Find("Camera").GetComponent<Camera>();
             camera.enabled = IsOwner;
         }
+
+
+        //---------------------------------
+        // Pick Up Loot
+
+        void OnCollisionEnter(Collision collision)
+        {
+
+            if (IsServer)
+            {
+                if (collision.gameObject.CompareTag("YellowStar"))
+                {
+                    ServerHandleYellowStarPickUp(collision.gameObject);
+                }
+
+                if (collision.gameObject.CompareTag("BlueDiamond"))
+                {
+                    ServerHandleBlueDiamondPickUp(collision.gameObject);
+                }
+            }
+        }
+
+        private void ServerHandleYellowStarPickUp(GameObject destroyStar)
+        {
+            Debug.Log("Picked Up Star");
+            Destroy(destroyStar);
+        }
+
+        private void ServerHandleBlueDiamondPickUp(GameObject destroyStar)
+        {
+            Debug.Log("Picked Up Diamond");
+            Destroy(destroyStar);
+        }
+
     }
 }

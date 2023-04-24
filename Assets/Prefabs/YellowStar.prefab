@@ -14,9 +14,11 @@ GameObject:
   - component: {fileID: 728560767102503307}
   - component: {fileID: 1050811753971580579}
   - component: {fileID: 6497072208462205500}
+  - component: {fileID: 4869278488127691390}
+  - component: {fileID: 6171171364149867354}
   m_Layer: 0
   m_Name: YellowStar
-  m_TagString: Untagged
+  m_TagString: YellowStar
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -152,3 +154,29 @@ MonoBehaviour:
   ScaleThreshold: 0.01
   InLocalSpace: 0
   Interpolate: 1
+--- !u!65 &4869278488127691390
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831707711466646145}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 3.174123, y: 2.7590935, z: 2.801021}
+  m_Center: {x: -0.03948558, y: -0.11897239, z: 0.08409968}
+--- !u!114 &6171171364149867354
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 831707711466646145}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e255e253f507425c8e4a8440eae587a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  curStar: {fileID: 831707711466646145}

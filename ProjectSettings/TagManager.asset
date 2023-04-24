@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Score
+  - YellowStarSpawnPoint
+  - BlueDiamondSpawnPoint
+  - YellowStar
+  - BlueDiamond
   layers:
   - Default
   - TransparentFX

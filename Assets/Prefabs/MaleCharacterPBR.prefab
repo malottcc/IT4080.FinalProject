@@ -2292,6 +2292,8 @@ MonoBehaviour:
   speed: 6
   sensitivity: 1
   rb: {fileID: 0}
+  wagonScore:
+    m_InternalValue: 0
 --- !u!114 &7115274306695730007
 MonoBehaviour:
   m_ObjectHideFlags: 0

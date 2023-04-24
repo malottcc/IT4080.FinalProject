@@ -10,12 +10,14 @@ using TMPro;
 
 namespace It4080
 {
-    public class LootSpawner : NetworkBehaviour
+    public class DiamondSpawner : NetworkBehaviour
     {
 
         public GameObject blueDiamond;
-        //public GameObject yellowStar;
         public bool spawnOnLoad = true;
+        public GameObject curBlueDiamond = null;
+        public float timeRemaining = 0f;
+        public float refreshTime = 2f;
 
         public void Start()
         {
@@ -33,12 +35,31 @@ namespace It4080
         private void HostOnNetworkSpawn()
         {
             SpawnBlueDiamondServerRpc();
-            //SpawnYellowStarServerRpc();
+        }
+
+        void OnCollisionEnter(Collision collision)
+        {
+
         }
 
         void Update()
         {
-
+            if (IsServer)
+            {
+                if (timeRemaining > 0f)
+                {
+                    timeRemaining -= Time.deltaTime;
+                    if (timeRemaining <= 0f)
+                    {
+                        timeRemaining = 0;
+                        SpawnBlueDiamondServerRpc();
+                    }
+                }
+                else if (curBlueDiamond == null)
+                {
+                    timeRemaining = refreshTime;
+                }
+            }
         }
 
         [ServerRpc]
@@ -47,6 +68,7 @@ namespace It4080
             Debug.Log("Spawning Blue Diamond");
             GameObject InstansiatedBlueDiamond = Instantiate(blueDiamond, gameObject.transform.position, UnityEngine.Quaternion.identity);
             InstansiatedBlueDiamond.GetComponent<NetworkObject>().Spawn();
+            curBlueDiamond = InstansiatedBlueDiamond;
         }
     }
 }
