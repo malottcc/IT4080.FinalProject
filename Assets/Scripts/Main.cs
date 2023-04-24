@@ -12,6 +12,7 @@ using TMPro;
 public class Main : NetworkBehaviour
 {
     public It4080.NetworkSettings netSettings;
+    public It4080.ChatUi chat;
     private Button btnStart;
 
 
@@ -20,6 +21,9 @@ public class Main : NetworkBehaviour
 
     void Start()
     {
+        // Chat
+        chat.SystemMessage("Hellow all ye who stupid");
+
         // Network Start
         netSettings.startServer += NetSettingsOnServerStart;
         netSettings.startHost += NetSettingsOnHostStart;
