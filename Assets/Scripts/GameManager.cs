@@ -25,9 +25,21 @@ namespace It4080
             {
                 SpawnAllPlayers();
                 SpawnAllWagons();
+                NetworkManager.Singleton.OnClientConnectedCallback += ServerOnClientConnected;
             }
         }
 
+        public void update()
+        {
+
+        }
+
+        private void ServerOnClientConnected(ulong clientId)
+        {
+            Player newPlayer = SpawnPlayerForClient(clientId);
+            Wagon newWagon = SpawnWagonForClient(clientId);
+            newWagon.player = newPlayer;
+        }
 
         private void SpawnAllPlayers()
         {
@@ -53,6 +65,7 @@ namespace It4080
             Vector3 spawnPosition = new Vector3(1 + clientId * 5, 1, 18);
             Player playerSpawn = Instantiate(playerPrefab, spawnPosition, Quaternion.identity);
             playerSpawn.GetComponent<NetworkObject>().SpawnAsPlayerObject(clientId);
+            Debug.Log("ClientID is - " + clientId);
             return playerSpawn;
         }
 

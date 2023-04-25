@@ -188,6 +188,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   worldText: {fileID: 8301753850036362886}
+  displayScore: 
+  player: {fileID: 0}
+  WagonCurrentScore: 0
 --- !u!65 &8461905362564853897
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -199,8 +202,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 3.478638, y: 3.712569, z: 3.7772255}
-  m_Center: {x: -0.6896142, y: 6.488519, z: -9.3188505}
+  m_Size: {x: 3.478638, y: 3.712569, z: 5.724154}
+  m_Center: {x: -0.6896142, y: 6.488519, z: -8.345351}
 --- !u!1 &8301753850036362880
 GameObject:
   m_ObjectHideFlags: 0
@@ -301,7 +304,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Value: 0'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
   m_sharedMaterial: {fileID: 2100000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}

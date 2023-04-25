@@ -25,9 +25,6 @@ namespace It4080 {
         public TMPro.TMP_InputField inputMessage;
         public TMPro.TMP_Text txtChatLog;
 
-        public event Action<ChatMessage> sendMessage;
-        public event Action<string> OnTextSubmitted;
-
         private ulong clientId = 0;
 
         public void Start() 
