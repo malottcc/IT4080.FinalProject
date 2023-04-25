@@ -23,8 +23,7 @@ namespace It4080
 
             if (IsServer)
             {
-                SpawnAllPlayers();
-                SpawnAllWagons();
+                SpawnAllPlayersAndWagons();
                 NetworkManager.Singleton.OnClientConnectedCallback += ServerOnClientConnected;
             }
         }
@@ -41,23 +40,16 @@ namespace It4080
             newWagon.player = newPlayer;
         }
 
-        private void SpawnAllPlayers()
+        private void SpawnAllPlayersAndWagons()
         {
             Debug.Log("Spawning Players");
             foreach (ulong clientId in NetworkManager.Singleton.ConnectedClientsIds)
             {
                 SpawnPlayerForClient(clientId);
-            }
-        }
-
-        private void SpawnAllWagons()
-        {
-            Debug.Log("Spawning Wagons");
-            foreach (ulong clientId in NetworkManager.Singleton.ConnectedClientsIds)
-            {
                 SpawnWagonForClient(clientId);
             }
         }
+
 
         private Player SpawnPlayerForClient(ulong clientId)
         {

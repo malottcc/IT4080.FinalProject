@@ -27,15 +27,24 @@ namespace It4080
 
         void OnCollisionEnter(Collision collider)
         {
-            if (IsOwner)
+            if (IsServer)
             {
-                Debug.Log("Wagon Collided");
-                ServerOnWagonCollision(collider.gameObject.GetComponent<Player>());
+                if (collider.gameObject.CompareTag("Player"))
+                {
+                    Debug.Log("Wagon Collided");
+                    ServerOnWagonCollision(collider.gameObject.GetComponent<Player>());
+                }
+                
             }
         }
 
         void ServerOnWagonCollision(Player collidePlayer)
         {
+            if (collidePlayer != player)
+            {
+                return;
+            }
+
             if (IsOwner)
             {
                 clientId = NetworkManager.Singleton.LocalClientId;
@@ -44,8 +53,16 @@ namespace It4080
                 ChangeWagonScoreClientRpc(WagonCurrentScore);
                 collidePlayer.ClearPlayerLootValue();
             }
-            
         }
+
+        /*
+        [ServerRpc(RequireOwnership = false)]
+        public void ChangeWagonScoreServerRpc(int score, ServerRpcParams serverRpcParams = default)
+        { 
+            Debug.Log("Server Change Score");
+            ChangeWagonScoreClientRpc(score);
+        }
+        */
 
         [ClientRpc]
         public void ChangeWagonScoreClientRpc(int wagonScore, ClientRpcParams rpcParams = default)
