@@ -36,9 +36,11 @@ namespace It4080
         public int StartLootValue = 0;
         public bool Switch = false;
 
+        public int clientid;
+
         void Start()
         {
-            Cursor.lockState = CursorLockMode.Locked;
+            //Cursor.lockState = CursorLockMode.Locked;
             rb = GetComponent<Rigidbody>();
         }
 

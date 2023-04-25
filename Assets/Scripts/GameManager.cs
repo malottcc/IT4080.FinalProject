@@ -68,6 +68,7 @@ namespace It4080
             Vector3 spawnPosition = new Vector3(1 + clientId * 8, -4, 16);
             Wagon wagonSpawn = Instantiate(wagonPrefab, spawnPosition, Quaternion.identity);
             wagonSpawn.GetComponent<NetworkObject>().SpawnWithOwnership(clientId);
+            Debug.Log("Wagon Id is - " + clientId);
             return wagonSpawn;
         }
 

@@ -18,7 +18,6 @@ namespace It4080
         public string displayScore;
         public It4080.Player player;
         public int WagonCurrentScore = 0;
-        private ulong clientId = 0;
 
         void Start()
         {
@@ -40,14 +39,11 @@ namespace It4080
 
         void ServerOnWagonCollision(Player collidePlayer)
         {
-            if (collidePlayer != player)
-            {
-                return;
-            }
+            //collidePlayer = player;
 
             if (IsOwner)
             {
-                clientId = NetworkManager.Singleton.LocalClientId;
+                Debug.Log("Player that collided ID - " + NetworkManager.Singleton.LocalClientId);
                 collidePlayer.wagonScore.Value += collidePlayer.playerLootScore.Value;
                 WagonCurrentScore = collidePlayer.wagonScore.Value;
                 ChangeWagonScoreClientRpc(WagonCurrentScore);
@@ -62,6 +58,11 @@ namespace It4080
             Debug.Log("Server Change Score");
             ChangeWagonScoreClientRpc(score);
         }
+
+        if (collidePlayer != player)
+            {
+                return;
+            }
         */
 
         [ClientRpc]
