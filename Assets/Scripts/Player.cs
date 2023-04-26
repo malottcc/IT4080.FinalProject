@@ -143,7 +143,7 @@ namespace It4080
             else
             {
                 Debug.Log("Picked Up Sphere");
-                playerLootScore.Value += 75;
+                playerLootScore.Value += 100;
                 isCarryingLoot.Value = true;
                 Destroy(destroyStar);
             }

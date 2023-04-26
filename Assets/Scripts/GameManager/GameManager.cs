@@ -58,7 +58,7 @@ namespace It4080
         private Player SpawnPlayerForClient(ulong clientId)
         {
             Debug.Log("Spawning Clients");
-            Vector3 spawnPosition = new Vector3(1 + clientId * 5, 1, 18);
+            Vector3 spawnPosition = new Vector3(1 + clientId * 5, 1, 23);
             Player playerSpawn = Instantiate(playerPrefab, spawnPosition, Quaternion.identity);
             playerSpawn.GetComponent<NetworkObject>().SpawnAsPlayerObject(clientId);
             Debug.Log("ClientID is - " + clientId);
@@ -69,7 +69,7 @@ namespace It4080
         private Wagon SpawnWagonForClient(ulong clientId)
         {
             Debug.Log("Spawning Wagons");
-            Vector3 spawnPosition = new Vector3(1 + clientId * 8, -4, 16);
+            Vector3 spawnPosition = new Vector3(1 + clientId * 8, -4, 23);
             Wagon wagonSpawn = Instantiate(wagonPrefab, spawnPosition, Quaternion.identity);
             wagonSpawn.GetComponent<NetworkObject>().SpawnWithOwnership(clientId);
             Debug.Log("Wagon Id is - " + clientId);
