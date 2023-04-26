@@ -7,22 +7,24 @@ using System;
 using UnityEngine.UI;
 using Unity.Netcode.Transports.UTP;
 using TMPro;
+using UnityEngine.AI;
 
 
 namespace It4080
 {
-    public class Wizard : MonoBehaviour
+    public class Wizard : NetworkBehaviour
     {
-        // Start is called before the first frame update
-        void Start()
-        {
+        public NavMeshAgent navMeshAgent;
+        [SerializeField] private Transform movePositionTransform;
 
+        public void Awake()
+        {
+            navMeshAgent = GetComponent<NavMeshAgent>();
         }
 
-        // Update is called once per frame
-        void Update()
+        public void Update()
         {
-
+            navMeshAgent.destination = movePositionTransform.position;
         }
     }
 }
