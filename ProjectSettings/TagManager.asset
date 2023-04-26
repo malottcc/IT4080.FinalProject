@@ -13,6 +13,7 @@ TagManager:
   - GreenHorcruxSpawnPoint
   - RedSphere
   - RedSphereSpawnPoint
+  - Wizard
   layers:
   - Default
   - TransparentFX
