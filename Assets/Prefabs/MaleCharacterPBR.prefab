@@ -2294,6 +2294,14 @@ MonoBehaviour:
   rb: {fileID: 0}
   wagonScore:
     m_InternalValue: 0
+  StartWagonScore: 0
+  playerLootScore:
+    m_InternalValue: 0
+  isCarryingLoot:
+    m_InternalValue: 0
+  StartLootValue: 0
+  StartNotCarryingLoot: 0
+  clientid: 0
 --- !u!114 &7115274306695730007
 MonoBehaviour:
   m_ObjectHideFlags: 0

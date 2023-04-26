@@ -9,6 +9,8 @@ TagManager:
   - BlueDiamondSpawnPoint
   - YellowStar
   - BlueDiamond
+  - GreenHorcrux
+  - GreenHorcruxSpawnPoint
   layers:
   - Default
   - TransparentFX

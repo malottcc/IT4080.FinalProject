@@ -17,7 +17,6 @@ namespace It4080
         public TMP_Text worldText;
         public string displayScore;
         public It4080.Player player;
-        public int WagonCurrentScore = 0;
 
         void Start()
         {
@@ -31,6 +30,7 @@ namespace It4080
                 if (collider.gameObject.CompareTag("Player"))
                 {
                     Debug.Log("Wagon Collided");
+                    Debug.Log("Player that collided ID - " + NetworkManager.Singleton.LocalClientId);
                     ServerOnWagonCollision(collider.gameObject.GetComponent<Player>());
                 }
                 
@@ -39,42 +39,22 @@ namespace It4080
 
         void ServerOnWagonCollision(Player collidePlayer)
         {
-            //collidePlayer = player;
+            Debug.Log("Player that collided ID - " + NetworkManager.Singleton.LocalClientId);
 
-            if (IsOwner)
+            if (collidePlayer == player)
             {
-                Debug.Log("Player that collided ID - " + NetworkManager.Singleton.LocalClientId);
                 collidePlayer.wagonScore.Value += collidePlayer.playerLootScore.Value;
-                WagonCurrentScore = collidePlayer.wagonScore.Value;
-                ChangeWagonScoreClientRpc(WagonCurrentScore);
+                ChangeWagonScoreClientRpc(collidePlayer.wagonScore.Value);
                 collidePlayer.ClearPlayerLootValue();
+                collidePlayer.ResetCarryingLoot();
             }
         }
-
-        /*
-        [ServerRpc(RequireOwnership = false)]
-        public void ChangeWagonScoreServerRpc(int score, ServerRpcParams serverRpcParams = default)
-        { 
-            Debug.Log("Server Change Score");
-            ChangeWagonScoreClientRpc(score);
-        }
-
-        if (collidePlayer != player)
-            {
-                return;
-            }
-        */
 
         [ClientRpc]
         public void ChangeWagonScoreClientRpc(int wagonScore, ClientRpcParams rpcParams = default)
         {
             worldText.text = "Value = " + wagonScore;
             Debug.Log("Points added to Wagon");
-        }
-
-        void Update()
-        {
-
         }
     }
 }

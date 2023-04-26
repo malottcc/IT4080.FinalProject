@@ -34,7 +34,7 @@ namespace It4080
         public NetworkVariable<int> playerLootScore = new NetworkVariable<int>();
         public NetworkVariable<bool> isCarryingLoot = new NetworkVariable<bool>();
         public int StartLootValue = 0;
-        public bool Switch = false;
+        public bool StartNotCarryingLoot = false;
 
         public int clientid;
 
@@ -54,6 +54,7 @@ namespace It4080
 
             playerLootScore.Value = StartLootValue;
             wagonScore.Value = StartWagonScore;
+            isCarryingLoot.Value = StartNotCarryingLoot;
         }
 
         //---------------------------------
@@ -73,26 +74,59 @@ namespace It4080
                 {
                     ServerHandleBlueDiamondPickUp(collision.gameObject);
                 }
+
+                if (collision.gameObject.CompareTag("GreenHorcrux"))
+                {
+                    ServerHandleGreenHorcruxPickUp(collision.gameObject);
+                }
             }
-        }
-
-        public void ChangeStateCarryingLoot(bool previous, bool current)
-        {
-
         }
 
         private void ServerHandleYellowStarPickUp(GameObject destroyStar)
         {
-            Debug.Log("Picked Up Star");
-            playerLootScore.Value += 15;
-            Destroy(destroyStar);
+            if (isCarryingLoot.Value == true)
+            {
+                return;
+            }
+            else
+            {
+                Debug.Log("Picked Up Star");
+                playerLootScore.Value += 15;
+                isCarryingLoot.Value = true;
+                Destroy(destroyStar);
+            }
+        }
+
+        private void ServerHandleGreenHorcruxPickUp(GameObject destoryHorcrux)
+        {
+            if (isCarryingLoot.Value == true)
+            {
+                return;
+            }
+            else
+            {
+                Debug.Log("Picked Up Horcrux");
+                playerLootScore.Value += 40;
+                isCarryingLoot.Value = true;
+                Destroy(destoryHorcrux);
+            }
+
         }
 
         private void ServerHandleBlueDiamondPickUp(GameObject destroyStar)
         {
-            Debug.Log("Picked Up Diamond");
-            playerLootScore.Value += 25;
-            Destroy(destroyStar);
+            if (isCarryingLoot.Value == true)
+            {
+                return;
+            }
+            else
+            {
+                Debug.Log("Picked Up Diamond");
+                playerLootScore.Value += 25;
+                isCarryingLoot.Value = true;
+                Destroy(destroyStar);
+            }
+
         }
 
         public void ClearPlayerLootValue()
@@ -100,6 +134,11 @@ namespace It4080
             playerLootScore.Value = 0;
             Debug.Log("Points Back to Zero");
             Debug.Log(playerLootScore.Value);
+        }
+
+        public void ResetCarryingLoot()
+        {
+            isCarryingLoot.Value = false;
         }
 
 
