@@ -1,7 +1,7 @@
 Mono path[0] = 'C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/TheBuild_Data/Managed'
 Mono config path = 'C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/MonoBleedingEdge/etc'
 Found 1 interfaces on host : 0) 192.168.0.220
-Multi-casting "[IP] 192.168.0.220 [Port] 55000 [Flags] 2 [Guid] 780015705 [EditorId] 3727119797 [Version] 1048832 [Id] WindowsPlayer(2,Parzi7al) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] IT4080.FinalProject.malottcc" to [225.0.0.222:54997]...
+Multi-casting "[IP] 192.168.0.220 [Port] 55000 [Flags] 2 [Guid] 1118841480 [EditorId] 3727119797 [Version] 1048832 [Id] WindowsPlayer(2,Parzi7al) [Debug] 0 [PackageName] WindowsPlayer [ProjectName] IT4080.FinalProject.malottcc" to [225.0.0.222:54997]...
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
 [Subsystems] Discovering subsystems at path C:/Users/malot/OneDrive/Documents/GitHub/IT4080.FinalProject/TheBuild_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=1
@@ -12,99 +12,99 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   31.0.15.2698
 Begin MonoManager ReloadAssembly
-Symbol file data-1A5A3728 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.dll
+Symbol file data-1A08F970 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A5A3728 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTestData.dll
+Symbol file data-1A103B50 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTestData.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A5A3728 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricEvents.dll
+Symbol file data-1A103B50 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricEvents.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6292E8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll
+Symbol file data-1A108B58 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6300F0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Telemetry.dll
+Symbol file data-1A10F960 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Telemetry.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6300F0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+Symbol file data-1A112568 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A631AF8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Networking.dll
+Symbol file data-1A112568 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Networking.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A63AB08 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.ClientAuthority.dll
+Symbol file data-1A113570 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.ClientAuthority.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A63EB10 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTypes.dll
+Symbol file data-1A118580 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.MetricTypes.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A654770 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Internal.dll
+Symbol file data-1A12C1D8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Internal.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A63F918 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsReporting.dll
+Symbol file data-1A119388 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsReporting.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A667378 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Relay.dll
+Symbol file data-1A13EDE0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Relay.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A669F80 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Configuration.dll
+Symbol file data-1A1419E8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Configuration.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6A6388 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\UnityEngine.UI.dll
+Symbol file data-1A17DDF0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\UnityEngine.UI.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6CAF90 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Networking.Transport.dll
+Symbol file data-1A1AF418 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Networking.Transport.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6E2210 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Authentication.dll
+Symbol file data-1A1BD620 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Authentication.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6E8A18 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Common.dll
+Symbol file data-1A1C3E28 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Common.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6F3A20 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Components.dll
+Symbol file data-1A1CEE30 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Components.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6FF830 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Initialization.dll
+Symbol file data-1A1A29F8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Initialization.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6F3A20 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Registration.dll
+Symbol file data-1A1CEE30 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Registration.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6F4A28 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.Internal.dll
+Symbol file data-1A1D7650 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.Internal.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6F4A28 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Threading.dll
+Symbol file data-1A1D7650 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Threading.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A768248 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Collections.dll
+Symbol file data-1A22DC60 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Collections.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A773850 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStats.dll
+Symbol file data-1A239268 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStats.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6F5E30 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Tutorials.Core.dll
+Symbol file data-1A23A670 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Tutorials.Core.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A6F6E38 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+Symbol file data-1A23A670 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A773850 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Profiling.Core.dll
+Symbol file data-1A23A670 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Profiling.Core.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A78FC58 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Timeline.dll
+Symbol file data-1A256A78 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Timeline.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A7EA460 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.TextMeshPro.dll
+Symbol file data-1A2B2288 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.TextMeshPro.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A7EA460 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll
+Symbol file data-1A2B2288 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A83A468 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Flow.dll
+Symbol file data-1A302290 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Flow.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A87A470 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Runtime.dll
+Symbol file data-1A342298 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Netcode.Runtime.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A87C478 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.RNSM.dll
+Symbol file data-1A3522A0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.RNSM.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A87F080 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.dll
+Symbol file data-1A354EA8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A87F080 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Core.dll
+Symbol file data-1A354EA8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.Core.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A885C88 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.dll
+Symbol file data-1A35BAB0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Samples.Utilities.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A885C88 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Mathematics.dll
+Symbol file data-1A35BAB0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Mathematics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A906C98 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Analytics.dll
+Symbol file data-1A3DCAC0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Analytics.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A885C88 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Burst.dll
+Symbol file data-1A35BAB0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Burst.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A95BEB8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.Ngo1.dll
+Symbol file data-1A433CE8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.Adapters.Ngo1.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A95CEC0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.dll
+Symbol file data-1A434CF0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Environments.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A95F6C8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Scheduler.dll
+Symbol file data-1A4374F8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Scheduler.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A885C88 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.QoS.dll
+Symbol file data-1A36B6B8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.QoS.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A885C88 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
+Symbol file data-1A36B6B8 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A88C690 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.State.dll
+Symbol file data-1A3720C0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.VisualScripting.State.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-Symbol file data-1A88C690 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Device.dll
+Symbol file data-1A3720C0 doesn't match image C:\Users\malot\OneDrive\Documents\GitHub\IT4080.FinalProject\TheBuild_Data\Managed\Unity.Services.Core.Device.dll
 Symbol file LoadedFromMemory is not a mono symbol file
-- Completed reload, in  0.128 seconds
+- Completed reload, in  0.127 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
@@ -136,7 +136,7 @@ MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<
 Rethrow as TypeInitializationException: The type initializer for 'It4080.ChatUi' threw an exception.
 
 
-UnloadTime: 0.676100 ms
+UnloadTime: 1.359300 ms
 MissingFieldException: Field not found: System.Collections.Generic.Dictionary`2<uint, string> Unity.Netcode.NetworkManager.__rpc_name_table Due to: Could not find field in class
 Rethrow as TypeInitializationException: The type initializer for 'It4080.ChatUi' threw an exception.
 
@@ -164,7 +164,7 @@ PlayerConnection::CleanupMemory Statistics:
 [ALLOC_TEMP_TLS] TLS Allocator
   StackAllocators : 
     [ALLOC_TEMP_MAIN]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1943 frames, [16.0 KB-32.0 KB]: 1 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 246 frames, [2.0 MB-4.0 MB]: 1 frames
       Initial Block Size 4.0 MB
       Current Block Size 4.0 MB
       Peak Allocated Bytes 2.0 MB
@@ -209,20 +209,20 @@ PlayerConnection::CleanupMemory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 110 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 9]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
-      Overflow Count 0
     [ALLOC_TEMP_Job.Worker 6]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 9]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 3.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 0]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 10]
       Initial Block Size 32.0 KB
@@ -244,15 +244,15 @@ PlayerConnection::CleanupMemory Statistics:
       Current Block Size 32.0 KB
       Peak Allocated Bytes 111 B
       Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 8]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
-      Overflow Count 0
     [ALLOC_TEMP_Job.Worker 5]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
+      Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 8]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 14]
       Initial Block Size 32.0 KB
@@ -267,7 +267,7 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_TEMP_Job.Worker 4]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_AUDIO_FMOD (WASAPI) feeder thread]
       Initial Block Size 64.0 KB
@@ -277,17 +277,17 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_TEMP_Job.Worker 7]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 3.7 KB
       Overflow Count 0
     [ALLOC_TEMP_Profiler.Dispatcher]
       Initial Block Size 64.0 KB
       Current Block Size 64.0 KB
-      Peak Allocated Bytes 0 B
+      Peak Allocated Bytes 3.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 1]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 11]
       Initial Block Size 32.0 KB
@@ -297,27 +297,27 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_TEMP_Job.Worker 2]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
-      Overflow Count 0
-    [ALLOC_TEMP_Job.Worker 14]
-      Initial Block Size 256.0 KB
-      Current Block Size 256.0 KB
-      Peak Allocated Bytes 3.6 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 3]
       Initial Block Size 32.0 KB
       Current Block Size 32.0 KB
       Peak Allocated Bytes 110 B
       Overflow Count 0
+    [ALLOC_TEMP_Job.Worker 14]
+      Initial Block Size 256.0 KB
+      Current Block Size 256.0 KB
+      Peak Allocated Bytes 8.0 KB
+      Overflow Count 0
     [ALLOC_TEMP_Job.Worker 10]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Job.Worker 3]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 3.6 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_AUDIO_FMOD mixer thread]
       Initial Block Size 64.0 KB
@@ -327,7 +327,7 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_TEMP_Job.Worker 13]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 0]
       Initial Block Size 32.0 KB
@@ -347,7 +347,7 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_TEMP_Job.Worker 11]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 15]
       Initial Block Size 32.0 KB
@@ -357,7 +357,7 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_TEMP_Job.Worker 12]
       Initial Block Size 256.0 KB
       Current Block Size 256.0 KB
-      Peak Allocated Bytes 9.2 KB
+      Peak Allocated Bytes 8.0 KB
       Overflow Count 0
     [ALLOC_TEMP_Background Job.Worker 4]
       Initial Block Size 32.0 KB
@@ -375,7 +375,7 @@ PlayerConnection::CleanupMemory Statistics:
       Peak Allocated Bytes 42 B
       Overflow Count 0
 [ALLOC_MEMORYPROFILER]
-  Peak usage frame count: [64.0 KB-128.0 KB]: 1945 frames
+  Peak usage frame count: [64.0 KB-128.0 KB]: 247 frames
   Requested Block Size 1.0 MB
   Peak Block count 1
   Peak Allocated memory 71.5 KB
@@ -387,13 +387,13 @@ PlayerConnection::CleanupMemory Statistics:
       Used Block count 1
       Peak Allocated bytes 1.2 MB
     [ALLOC_DEFAULT_MAIN]
-      Peak usage frame count: [8.0 MB-16.0 MB]: 1945 frames
+      Peak usage frame count: [8.0 MB-16.0 MB]: 247 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
       Peak Allocated memory 13.0 MB
       Peak Large allocation bytes 0 B
     [ALLOC_DEFAULT_THREAD]
-      Peak usage frame count: [16.0 MB-32.0 MB]: 1945 frames
+      Peak usage frame count: [16.0 MB-32.0 MB]: 247 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
       Peak Allocated memory 17.5 MB
@@ -425,16 +425,16 @@ PlayerConnection::CleanupMemory Statistics:
       Used Block count 1
       Peak Allocated bytes 1.2 MB
     [ALLOC_GFX_MAIN]
-      Peak usage frame count: [256.0 KB-0.5 MB]: 1944 frames, [2.0 MB-4.0 MB]: 1 frames
+      Peak usage frame count: [1.0 MB-2.0 MB]: 246 frames, [2.0 MB-4.0 MB]: 1 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
       Peak Allocated memory 2.7 MB
       Peak Large allocation bytes 0 B
     [ALLOC_GFX_THREAD]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 1945 frames
+      Peak usage frame count: [256.0 KB-0.5 MB]: 247 frames
       Requested Block Size 16.0 MB
       Peak Block count 1
-      Peak Allocated memory 1.4 MB
+      Peak Allocated memory 335.1 KB
       Peak Large allocation bytes 0 B
 [ALLOC_CACHEOBJECTS] Dual Thread Allocator
   Peak main deferred allocation count 0
@@ -443,13 +443,13 @@ PlayerConnection::CleanupMemory Statistics:
       Used Block count 1
       Peak Allocated bytes 1.2 MB
     [ALLOC_CACHEOBJECTS_MAIN]
-      Peak usage frame count: [1.0 MB-2.0 MB]: 1945 frames
+      Peak usage frame count: [1.0 MB-2.0 MB]: 247 frames
       Requested Block Size 4.0 MB
       Peak Block count 1
-      Peak Allocated memory 1.3 MB
+      Peak Allocated memory 1.4 MB
       Peak Large allocation bytes 0 B
     [ALLOC_CACHEOBJECTS_THREAD]
-      Peak usage frame count: [2.0 MB-4.0 MB]: 1944 frames, [4.0 MB-8.0 MB]: 1 frames
+      Peak usage frame count: [2.0 MB-4.0 MB]: 246 frames, [4.0 MB-8.0 MB]: 1 frames
       Requested Block Size 4.0 MB
       Peak Block count 2
       Peak Allocated memory 5.7 MB
@@ -461,19 +461,19 @@ PlayerConnection::CleanupMemory Statistics:
       Used Block count 1
       Peak Allocated bytes 1.2 MB
     [ALLOC_TYPETREE_MAIN]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1945 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 247 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 4.7 KB
       Peak Large allocation bytes 0 B
     [ALLOC_TYPETREE_THREAD]
-      Peak usage frame count: [4.0 KB-8.0 KB]: 1945 frames
+      Peak usage frame count: [4.0 KB-8.0 KB]: 247 frames
       Requested Block Size 2.0 MB
       Peak Block count 1
       Peak Allocated memory 6.1 KB
       Peak Large allocation bytes 0 B
 [ALLOC_PROFILER]
-  Peak usage frame count: [16.0 KB-32.0 KB]: 1945 frames
+  Peak usage frame count: [16.0 KB-32.0 KB]: 247 frames
   Requested Block Size 16.0 MB
   Peak Block count 1
   Peak Allocated memory 28.0 KB
@@ -481,5 +481,5 @@ PlayerConnection::CleanupMemory Statistics:
     [ALLOC_PROFILER_BUCKET]
       Large Block size 4.0 MB
       Used Block count 1
-      Peak Allocated bytes 414 B
-##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1682524427837,"processId":32460,"allocatedMemory":5560332,"memoryLabels":[{"Default":5997},{"Permanent":9580},{"NewDelete":8536},{"Thread":4229116},{"Manager":275333},{"VertexData":12},{"Geometry":400},{"Texture":8},{"Shader":46006},{"Material":12},{"GfxDevice":26056},{"Animation":144},{"Audio":2744},{"FontEngine":160},{"Physics":188},{"Serialization":480},{"Input":13944},{"JobScheduler":168},{"Mono":24},{"ScriptingNativeRuntime":160},{"BaseObject":821108},{"Resource":448},{"Renderer":1276},{"Transform":8},{"File":584},{"WebCam":24},{"Culling":24},{"Terrain":609},{"Wind":12},{"STL":36},{"String":2983},{"DynamicArray":15616},{"HashMap":5400},{"Utility":3937},{"PoolAlloc":972},{"TypeTree":1728},{"ScriptManager":48},{"RuntimeInitializeOnLoadManager":56},{"SpriteAtlas":92},{"GI":2940},{"Unet":16},{"Director":4064},{"WebRequest":532},{"VR":24065},{"SceneManager":312},{"Video":20},{"LazyScriptCache":32},{"NativeArray":12},{"Camera":13},{"Secure":1},{"SerializationCache":316},{"APIUpdating":4168},{"Subsystems":184},{"VirtualTexturing":49596},{"AssetReference":32}]}
+      Peak Allocated bytes 418 B
+##utp:{"type":"MemoryLeaks","version":2,"phase":"Immediate","time":1682526434848,"processId":35100,"allocatedMemory":5560332,"memoryLabels":[{"Default":5997},{"Permanent":9580},{"NewDelete":8536},{"Thread":4229116},{"Manager":275333},{"VertexData":12},{"Geometry":400},{"Texture":8},{"Shader":46006},{"Material":12},{"GfxDevice":26056},{"Animation":144},{"Audio":2744},{"FontEngine":160},{"Physics":188},{"Serialization":480},{"Input":13944},{"JobScheduler":168},{"Mono":24},{"ScriptingNativeRuntime":160},{"BaseObject":821108},{"Resource":448},{"Renderer":1276},{"Transform":8},{"File":584},{"WebCam":24},{"Culling":24},{"Terrain":609},{"Wind":12},{"STL":36},{"String":2983},{"DynamicArray":15616},{"HashMap":5400},{"Utility":3937},{"PoolAlloc":972},{"TypeTree":1728},{"ScriptManager":48},{"RuntimeInitializeOnLoadManager":56},{"SpriteAtlas":92},{"GI":2940},{"Unet":16},{"Director":4064},{"WebRequest":532},{"VR":24065},{"SceneManager":312},{"Video":20},{"LazyScriptCache":32},{"NativeArray":12},{"Camera":13},{"Secure":1},{"SerializationCache":316},{"APIUpdating":4168},{"Subsystems":184},{"VirtualTexturing":49596},{"AssetReference":32}]}
