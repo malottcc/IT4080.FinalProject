@@ -79,6 +79,11 @@ namespace It4080
                 {
                     ServerHandleGreenHorcruxPickUp(collision.gameObject);
                 }
+
+                if (collision.gameObject.CompareTag("RedSphere"))
+                {
+                    ServerHandleRedSpherePickUp(collision.gameObject);
+                }
             }
         }
 
@@ -123,6 +128,22 @@ namespace It4080
             {
                 Debug.Log("Picked Up Diamond");
                 playerLootScore.Value += 25;
+                isCarryingLoot.Value = true;
+                Destroy(destroyStar);
+            }
+
+        }
+
+        private void ServerHandleRedSpherePickUp(GameObject destroyStar)
+        {
+            if (isCarryingLoot.Value == true)
+            {
+                return;
+            }
+            else
+            {
+                Debug.Log("Picked Up Sphere");
+                playerLootScore.Value += 75;
                 isCarryingLoot.Value = true;
                 Destroy(destroyStar);
             }

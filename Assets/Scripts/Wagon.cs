@@ -30,7 +30,6 @@ namespace It4080
                 if (collider.gameObject.CompareTag("Player"))
                 {
                     Debug.Log("Wagon Collided");
-                    Debug.Log("Player that collided ID - " + NetworkManager.Singleton.LocalClientId);
                     ServerOnWagonCollision(collider.gameObject.GetComponent<Player>());
                 }
                 
@@ -39,8 +38,6 @@ namespace It4080
 
         void ServerOnWagonCollision(Player collidePlayer)
         {
-            Debug.Log("Player that collided ID - " + NetworkManager.Singleton.LocalClientId);
-
             if (collidePlayer == player)
             {
                 collidePlayer.wagonScore.Value += collidePlayer.playerLootScore.Value;
