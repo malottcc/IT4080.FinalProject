@@ -33423,7 +33423,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: There are four types of Jewels. It's up to you to find out how much each
-    one costs. Run over a Jewel to pick it up, and return it back to your Cart outside.
+    one costs. Run over a Jewel to pick it up, and return it back to your Wagon outside.
     The Jewels will respawn after a period of time. But don't let that slow you down,
     think like a thief and keep stealing.
   m_isRightToLeft: 0
