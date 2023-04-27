@@ -407,7 +407,7 @@ CapsuleCollider:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1884881365287126242}
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_Enabled: 1
   m_Radius: 0.45570678
   m_Height: 1.882848
@@ -483,6 +483,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5edd912cf780d4894b2f3daa1cd6249e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  navMeshAgent: {fileID: 5628078999353601489}
+  stepPoints: []
+  target: {x: 0, y: 0, z: 0}
 --- !u!195 &5628078999353601489
 NavMeshAgent:
   m_ObjectHideFlags: 0

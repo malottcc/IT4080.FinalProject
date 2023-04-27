@@ -84,6 +84,11 @@ namespace It4080
                 {
                     ServerHandleRedSpherePickUp(collision.gameObject);
                 }
+
+                if (collision.gameObject.CompareTag("Wizard"))
+                {
+                    KickPlayerOutOfHouse();
+                }
             }
         }
 
@@ -162,6 +167,21 @@ namespace It4080
             isCarryingLoot.Value = false;
         }
 
+        //--------------------------------------
+        // Wizard Collided
+
+        public void KickPlayerOutOfHouse()
+        {
+            ClearPlayerLootValue();
+            ResetCarryingLoot();
+            BootOutClientRpc();
+        }
+
+        [ClientRpc]
+        public void BootOutClientRpc(ClientRpcParams rpcParams = default)
+        {
+            transform.position = new Vector3(2, 1, 23);
+        }
 
         //----------------------
         // Update

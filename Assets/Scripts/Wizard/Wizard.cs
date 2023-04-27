@@ -9,22 +9,45 @@ using Unity.Netcode.Transports.UTP;
 using TMPro;
 using UnityEngine.AI;
 
-
 namespace It4080
 {
     public class Wizard : NetworkBehaviour
     {
+        public It4080.Player player;
         public NavMeshAgent navMeshAgent;
-        [SerializeField] private Transform movePositionTransform;
+        public Transform[] stepPoints;
+        int stepPointIndex;
+        public Vector3 target;
+        public Transform kickedOut;
+   
 
-        public void Awake()
+        public void Start()
         {
-            navMeshAgent = GetComponent<NavMeshAgent>();
+            UpdateDestination();
         }
 
         public void Update()
         {
-            navMeshAgent.destination = movePositionTransform.position;
+            if (Vector3.Distance(transform.position, target) < 1)
+            {
+                IterateStepPointIndex();
+                UpdateDestination();
+            }
+        }
+
+        void UpdateDestination()
+        {
+            target = stepPoints[stepPointIndex].position;
+            navMeshAgent.SetDestination(target);
+        }
+
+        void IterateStepPointIndex()
+        {
+            stepPointIndex++;
+            if (stepPointIndex == stepPoints.Length)
+            {
+                stepPointIndex = 0;
+            }
         }
     }
 }
