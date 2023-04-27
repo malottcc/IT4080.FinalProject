@@ -231,7 +231,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timerOn: 0
-  timeLeft: 10
+  timeLeft: 180
   worldText: {fileID: 3924150240255536906}
 --- !u!65 &5495086504238492802
 BoxCollider:

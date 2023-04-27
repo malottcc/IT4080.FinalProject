@@ -17,7 +17,7 @@ namespace It4080
         public bool spawnOnLoad = true;
         public GameObject curRedSphere = null;
         public float timeRemaining = 0f;
-        public float refreshTime = 2f;
+        public float refreshTime = 120f;
 
         public void Start()
         {

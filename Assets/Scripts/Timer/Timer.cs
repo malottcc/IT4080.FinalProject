@@ -13,7 +13,7 @@ namespace It4080
     public class Timer : NetworkBehaviour
     {
         public bool timerOn = false;
-        public float timeLeft = 10;
+        public float timeLeft = 180;
         public TMP_Text worldText;
 
         public override void OnNetworkSpawn()

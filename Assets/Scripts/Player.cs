@@ -15,7 +15,7 @@ namespace It4080
     public class Player : NetworkBehaviour
     {
         // Movement Look
-        public float speed = 6.0f;
+        public float speed = 4.5f;
         float rotationX = 0f;
         float rotationY = 0f;
         public float sensitivity = 1f;
