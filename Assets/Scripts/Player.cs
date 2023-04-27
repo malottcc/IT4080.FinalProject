@@ -172,9 +172,9 @@ namespace It4080
 
         public void KickPlayerOutOfHouse()
         {
+            BootOutClientRpc();
             ClearPlayerLootValue();
             ResetCarryingLoot();
-            BootOutClientRpc();
         }
 
         [ClientRpc]
