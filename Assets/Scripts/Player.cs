@@ -181,6 +181,7 @@ namespace It4080
         public void BootOutClientRpc(ClientRpcParams rpcParams = default)
         {
             transform.position = new Vector3(2, 1, 23);
+            Debug.Log("Ye got got");
         }
 
         //----------------------

@@ -2289,7 +2289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0c8373628fb6dcf4b89aaa284ae11863, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 6
+  speed: 5
   sensitivity: 1
   rb: {fileID: 0}
   wagonScore:
