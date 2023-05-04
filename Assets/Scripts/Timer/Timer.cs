@@ -50,7 +50,7 @@ namespace It4080
             {
                 if (timeLeft > 0)
                 {
-                    Debug.Log("Getting to time left");
+                    Debug.Log("Times running out");
                     timeLeft -= Time.deltaTime;
                     updateTimer(timeLeft, timerOn);
                 }

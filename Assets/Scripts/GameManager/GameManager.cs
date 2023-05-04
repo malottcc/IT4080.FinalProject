@@ -17,6 +17,8 @@ namespace It4080
         public Player playerPrefab;
         public Wagon wagonPrefab;
 
+        //-----------------------------------------
+        // On Network Spawn
         public override void OnNetworkSpawn()
         {
             base.OnNetworkSpawn();
@@ -28,10 +30,16 @@ namespace It4080
             }
         }
 
+        //-----------------------------------------
+        // Update
+
         public void update()
         {
 
         }
+
+        //-----------------------------------------
+        // Spawning Clients and Stuff
 
         private void ServerOnClientConnected(ulong clientId)
         {
@@ -54,7 +62,6 @@ namespace It4080
             }
         }
 
-
         private Player SpawnPlayerForClient(ulong clientId)
         {
             Debug.Log("Spawning Clients");
@@ -64,7 +71,6 @@ namespace It4080
             Debug.Log("ClientID is - " + clientId);
             return playerSpawn;
         }
-
 
         private Wagon SpawnWagonForClient(ulong clientId)
         {

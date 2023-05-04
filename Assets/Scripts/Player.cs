@@ -23,6 +23,7 @@ namespace It4080
         // Jump
         public Rigidbody rb;
         public Vector3 grounded;
+
         // Camera
         private Camera camera;
 
@@ -36,6 +37,7 @@ namespace It4080
         public int StartLootValue = 0;
         public bool StartNotCarryingLoot = false;
 
+        // ClientId
         public int clientid;
 
         void Start()
@@ -171,9 +173,15 @@ namespace It4080
 
         public void KickPlayerOutOfHouse()
         {
-            BootOutClientRpc();
+            BootOutServerRpc();
             ClearPlayerLootValue();
             ResetCarryingLoot();
+        }
+
+        [ServerRpc]
+        public void BootOutServerRpc(ServerRpcParams rpcParams = default)
+        {
+            BootOutClientRpc();
         }
 
         [ClientRpc]
@@ -183,8 +191,9 @@ namespace It4080
             Debug.Log("Ye got got");
         }
 
-        //----------------------
+        //-------------------------------
         // Update
+
         void Update()
         {
             // Move around
@@ -224,7 +233,7 @@ namespace It4080
         }
 
         //------------------------------
-        //Server Move Players
+        // Server Move Players
 
         [ServerRpc]
         public void PlayerMovementServerRpc(Vector3 posChange, Vector3 posRotate, ServerRpcParams rpcParams = default)
