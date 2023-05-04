@@ -2290,8 +2290,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 4.5
-  sensitivity: 1
+  sensitivity: 3.5
   rb: {fileID: 0}
+  grounded: {x: 0, y: 0, z: 0}
   wagonScore:
     m_InternalValue: 0
   StartWagonScore: 0

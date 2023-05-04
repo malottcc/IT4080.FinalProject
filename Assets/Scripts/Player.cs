@@ -18,11 +18,11 @@ namespace It4080
         public float speed = 4.5f;
         float rotationX = 0f;
         float rotationY = 0f;
-        public float sensitivity = 1f;
+        public float sensitivity = 3.5f;
 
         // Jump
         public Rigidbody rb;
-
+        public Vector3 grounded;
         // Camera
         private Camera camera;
 
@@ -40,7 +40,6 @@ namespace It4080
 
         void Start()
         {
-            //Cursor.lockState = CursorLockMode.Locked;
             rb = GetComponent<Rigidbody>();
         }
 
@@ -198,9 +197,21 @@ namespace It4080
             rotationY += Input.GetAxis("Mouse X") * sensitivity;
             rotationX += Input.GetAxis("Mouse Y") * -1 * sensitivity;
             transform.localEulerAngles = new Vector3(rotationX, rotationY, 0);
+            if (Input.GetKeyDown(KeyCode.T))
+            { 
+                if (Cursor.lockState == CursorLockMode.Locked)
+                {
+                    Cursor.lockState = CursorLockMode.None;
+                }
+                else
+                {
+                    Cursor.lockState = CursorLockMode.Locked;
+                }
+            }
 
             // Jump
-            if (Input.GetKeyDown(KeyCode.Space))
+            grounded = gameObject.transform.position;
+            if (Input.GetKeyDown(KeyCode.Space) && grounded.y < 0)
             {
                 rb.velocity = new Vector3(0, 5, 0);
             }
